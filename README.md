@@ -48,19 +48,4 @@ Estou aberto a:
 📫 Me encontre por aqui:  
 🔗 [LinkedIn]([ https://www.linkedin.com/in/wesleysantos-dev2112 )]
 ---
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=L3sley-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3sley-cpu&layout=compact&theme=tokyonight"
-  />
-</p>
----
-
 > 💡 Este README é a minha vitrine — aqui recruto quem sou, o que sei fazer e para onde quero ir. Obrigado por visitar 👨‍💻
